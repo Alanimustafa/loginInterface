@@ -1,0 +1,74 @@
+body {background-image: url(https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg);
+}
+
+.mainPageName {
+  display: inline-block;
+  margin-left: 80px;
+  margin-top: 75px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;;
+  color:aliceblue;
+  text-decoration: underline;
+  border: solid rgb(236, 236, 236) 10px;
+  
+}
+
+.userloginHeader {
+  background-color: lightblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-left: 5%;
+  margin-right: 15px;
+}
+
+.loginBox {
+  display: inline;
+  position: fixed;
+  border: solid rgb(202, 202, 202) 6px;
+  width: 400px;
+  height: 600px;
+  background-color: white;
+  top: 175px;
+  left: 800px;
+}
+
+.credencials {
+  display:block;
+  margin-top: 80px;
+  margin-left: 75px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.loginButton {
+
+  background-color: lightblue;
+  font-size: 25px;
+  margin-top: 35px;
+  margin-left:150px;
+  margin-bottom: 40px;;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+
+.hyperlinks {
+  display: inline;
+}
+
+.createAccount {
+  font-weight: bold;
+  text-decoration: none;;
+  color: blue;
+  margin-left:25px;
+}
+
+.forgotPassword {
+  margin-left: 35px;
+  color: blue;
+  font-size: 15px;
+  text-decoration: none;
+}
+
